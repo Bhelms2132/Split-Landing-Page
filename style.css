@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:wght@400:700&display=swap');
 
+:root {
+    --left-bg-color: rgba(87, 84, 236, 0.7);
+    --right-bg-color: rgba(43, 43, 43, 0.8);
+}
+
 * {
     box-sizing: border-box;
 }
@@ -31,6 +36,8 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+
 
 .split.right {
     right: 0;
