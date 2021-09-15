@@ -40,7 +40,8 @@ h1 {
     font-size: 1rem;
     font-weight: bold;
     text-transform: uppercase;
-    
+    width: 15rem;
+    padding: 1.5rem;
 }
 
 .container {
